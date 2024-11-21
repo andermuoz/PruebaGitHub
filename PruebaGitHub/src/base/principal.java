@@ -4,7 +4,11 @@ public class principal {
 	/* EL BICHO*/
 
 	public static void main (String[]args) {
-		System.out.println("Hola Mundo");
+		extracted();
 		
+	}
+
+	public static void extracted() {
+		System.out.println("Hola Mundo");
 	}
 }
